@@ -1,4 +1,4 @@
-.index-body {
+.body {
     font-family: Garamond, Tahoma, Verdana;
     text-align: center;
 }
@@ -25,5 +25,5 @@
 
 .mainheader {
     height: auto;
-    width: 1000px;
+    width: 800px;
 }
