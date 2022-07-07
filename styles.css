@@ -1,0 +1,29 @@
+.index-body {
+    font-family: Garamond, Tahoma, Verdana;
+    text-align: center;
+}
+
+#hellyes,
+#hellno {
+    color: white;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+
+#hellyes {
+    background-color: green;
+}
+
+#hellno {
+    background-color: red;
+}
+
+.recipe-menu {
+    font-size: 20px;
+}
+
+.mainheader {
+    height: auto;
+    width: 1000px;
+}
